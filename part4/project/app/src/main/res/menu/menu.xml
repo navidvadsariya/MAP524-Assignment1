@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This group uses the default category -->
+    <group android:id="@+id/menuGroup_Main">
+
+        <item android:id="@+id/menu_min"
+            android:title="MIN" />
+
+        <item android:id="@+id/menu_avg"
+            android:title="AVG" />
+
+        <item android:id="@+id/menu_max"
+            android:title="MAX" />
+
+        <item android:id="@+id/menu_about"
+            android:title="About" />
+
+    </group>
+</menu>

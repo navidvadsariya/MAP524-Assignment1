@@ -1,0 +1,21 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string android:name="app_name">Grade Calculator</string>
+
+    <string android:name="about_text">
+      Look into our school for a variety of  IT programs: http://www.senecacollege.ca</string>
+
+    <string android:name="java_name">JAVA</string>
+    <string android:name="xml_name">XML</string>
+    <string android:name="android_name">ANDROID</string>
+    <string android:name="kotlin_name">KOTLIN</string>
+    <string android:name="button_uk">Calculate Sir</string>
+
+    <string android:name="heading">GRADE CALCULATOR</string>
+    <string android:name="title">RESULT</string>
+
+    <string android:name="min_btn">MIN</string>
+    <string android:name="max_btn">MAX</string>
+
+    <string android:name="min_res">Minimum Grade is </string>
+    <string android:name="max_res">Maximum Grade is </string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+
+    <string name="about_text">
+      Look into our school for a variety of  IT programs: http://www.senecacollege.ca</string>
+
+    <string name="java_name">JAVA</string>
+    <string name="xml_name">XML</string>
+    <string name="android_name">ANDROID</string>
+    <string name="kotlin_name">KOTLIN</string>
+    <string name="button">AVG</string>
+
+    <string name="heading">GRADE CALCULATOR</string>
+    <string name="title">RESULT</string>
+
+    <string name="min_btn">MIN</string>
+    <string name="max_btn">MAX</string>
+
+    <string name="min_res">Minimum Grade is </string>
+    <string name="max_res">Maximum Grade is </string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This group uses the default category -->
+    <group android:id="@+id/menuGroup_Main">
+
+        <item android:id="@+id/menu_contact_us"
+            android:title="About" />
+
+    </group>
+</menu>

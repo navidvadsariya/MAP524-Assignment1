@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+
+    <string name="about_text">
+       HelloAbout is Nice and simple App that is an example of AndroidExplicit intents and Android build-in Themes and interaction between activities.You can reach me: tel.: (416)111-1111 or email: xyz@myseneca.ca</string>
+
+    <string name="java_name">JAVA</string>
+    <string name="xml_name">XML</string>
+    <string name="android_name">ANDROID</string>
+    <string name="kotlin_name">KOTLIN</string>
+    <string name="button">Calculate Average</string>
+
+    <string name="heading">GRADE CALCULATOR</string>
+    <string name="title">RESULT</string>
+</resources>
